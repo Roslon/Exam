@@ -1,11 +1,9 @@
 {-  
-Auth:   Roslon
-Ver.:   2021110111943
+Author:   Roslon
+Version:   2021110111943
 Project: FizzBuzz
-Client: XXX
 -}
 
--- -----------------------------------------
 fizz :: Int -> String
 fizz n | n `rem` 15 == 0 = "FizzBuzz"
        | n `rem` 5 == 0  = "Fizz"
