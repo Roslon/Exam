@@ -1,5 +1,4 @@
 {-  
-Author:   Roslon
 Version:   2021110111943
 Project: FizzBuzz
 -}
