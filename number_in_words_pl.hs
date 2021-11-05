@@ -53,6 +53,8 @@ hundreds = [""
 thAdd n | n  == 0 = ""
         | n  == 1 = "tysiąc "
         | n  == 2 = "tysiące "
+        | n  == 3 = "tysiące "
+        | n  == 4 = "tysiące "
         | otherwise = "tysięcy "
 
 lastNumberO = if (rem allNumber 100) >= 19
