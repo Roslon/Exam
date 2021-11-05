@@ -86,7 +86,7 @@ main = do
         ++ hundreds !! firstNumberTTh
         ++ tens !! lastNumberTTh 
         ++ ones !! lastNumberTh  
-        ++ thAdd (lastNumberTh)
+        ++ thAdd (lastNumberTh + lastNumberTTh + firstNumberTTh)
         ++ hundreds !! lastNumberH 
         ++ tens !! lastNumberT 
         ++ ones !! lastNumberO
