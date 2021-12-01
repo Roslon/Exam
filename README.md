@@ -13,6 +13,7 @@ if it is divisible by 3 it is Buzz,
 if and by 5 and by 3 it is FizzBuzz.
 ```
 
+
 _number_in_words_pl.hs_
 ```
 Converts a number in numbers into a number in words. 
