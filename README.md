@@ -15,6 +15,7 @@ if and by 5 and by 3 it is FizzBuzz.
 
 _MSC_kube.hs_
 ```
+Marlowe smart contract for the Cardano network.
 The player and the casino roll the dice. 
 When the numbers are different the player wins 1/50 of the casino's pot. 
 When he has more, he wins 5 tokens, when he has less, he loses 5 tokens. 
