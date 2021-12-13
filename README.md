@@ -13,6 +13,13 @@ if it is divisible by 3 it is Buzz,
 if and by 5 and by 3 it is FizzBuzz.
 ```
 
+MSC_investment_short_v_202112.hs
+```
+Marlowe smart contract for the Cardano network.
+A simple version of an ADA investment paid by USDT
+to an investment fund using the Kraken to determine the USD / ADA rate.
+```
+
 _MSC_kraken.hs_
 ```
 Marlowe smart contract for the Cardano network.
