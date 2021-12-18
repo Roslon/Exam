@@ -13,6 +13,14 @@ if it is divisible by 3 it is Buzz,
 if and by 5 and by 3 it is FizzBuzz.
 ```
 
+MSC_crowfounding_20211218.hs
+```
+Marlowe smart contract for the Cardano network.
+Fundraising of a certain amount. 
+Specified minimum and maximum deposit. Two contributors. 
+If the sum is obtained with the first payment, the collection is closed.
+```
+
 MSC_investment_short_v_202112.hs
 ```
 Marlowe smart contract for the Cardano network.
