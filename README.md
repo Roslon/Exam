@@ -51,3 +51,8 @@ Converts a number in numbers into a number in words.
 Only integer numbers from 1 to 999999. Polish version, including grammar.
 ```
 
+_Plutus_Plauground_Install.md_
+```
+Quick guide on how to install Plutus Playground and language documentation on Windows 10/11.
+```
+
