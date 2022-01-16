@@ -1,6 +1,6 @@
 # PLutus Playground installation in Windows 10/11
 
-In Windows 10/11 we run WSL first.
+## In Windows 10/11 we run WSL first.
 We choose Ubuntu 20.4 and follow the instructions:
 https://docs.microsoft.com/en-us/windows/wsl/install
 
