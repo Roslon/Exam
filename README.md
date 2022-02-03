@@ -56,3 +56,7 @@ _Plutus_Plauground_Install.md_
 Quick guide on how to install Plutus Playground and language documentation on Windows 10/11.
 ```
 
+_Plutus_Playground_Restart.md_
+```
+Very quick guide on how to restart Plutus Playground and language documentation on Windows 10/11.
+```
